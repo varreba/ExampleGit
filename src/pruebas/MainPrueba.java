@@ -7,7 +7,7 @@ public class MainPrueba {
 	 */
 	public static void main(String[] args) {
 		System.out.println("pruebas");
-
+		System.out.println("pruebas2");
 	}
 
 }
